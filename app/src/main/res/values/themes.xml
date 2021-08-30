@@ -2,13 +2,10 @@
     <!-- Base application theme. -->
     <style name="Theme.SubscriptionManager" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
-<<<<<<< HEAD
         <item name="colorPrimary">@color/green_500</item>
         <item name="colorPrimaryVariant">@color/green_700</item>
-=======
-        <item name="colorPrimary">@color/purple_500</item>
-        <item name="colorPrimaryVariant">@color/purple_700</item>
->>>>>>> dfc86672c3f1165e61ff6d79b4976c8985bf6216
+<!--        <item name="colorPrimary">@color/purple_500</item>-->
+<!--        <item name="colorPrimaryVariant">@color/purple_700</item>-->
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
