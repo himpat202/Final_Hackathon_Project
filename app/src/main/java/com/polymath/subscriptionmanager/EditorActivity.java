@@ -5,6 +5,8 @@ import android.content.Intent;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.provider.CalendarContract;
+import android.database.sqlite.SQLiteDatabase;
+import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.EditText;
@@ -113,6 +115,7 @@ public class EditorActivity extends AppCompatActivity
 
         //Throw Calendar Intent
         startActivity(calIntent);
+        //TODO:Throw Calendar Intent
 
 
         //TODO:Display
